@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p78_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 78]\n                                   0                     1                                                                                      2   3           4    5                     6\n5.  Ihsan Trust Financial Assistance                                                                                                                                                        \n                                                           Ihsan Trust financial assistance for students who cannot afford to pay their full fee.                                           \n                                   6 .  Other Scholarships                                                                                                                                  \n                                                             In addition to the above scholarships there are various community-based scholarships                                           \n                                      offered  by  various                                                                             committees and foundations such as,  Memon  Community\n                                                            Scholarships,  Bohra  Community  Scholarships,  Agha  Khan  Foundation  Scholarships,                                           \n                                                                              Ihsan Trust Sponsorship, General Refaqat Memorial Scholarship, etc.                                           ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p78_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 78,
+    "type": "table",
+    "rows": 7,
+    "columns": 7
+  }
+}

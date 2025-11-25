@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p85_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 85]\n                      0                   1                                                    2\nIn-house Medical Center                                                                         \n                                          •             Availability of MBBS Doctor & Male Nurse\n                                          • Provides on-site medical consultations and treatment\n                                          •         Availability of MBBS doctor & ONE male nurse\n                                          •                  Operating hours: 8:00 AM to 4:00 PM\n                      F ree health services                                                     \n                                          •                                  Urgent medical care\n                                          •                                    Health counseling\n                                          •                                 Diagnostics referral\n                                          •                         Screenings & risk assessment\n                                          •                              BP & blood sugar checks\n                          •  Weight machine                                                     \n                                          •                                Sick leave evaluation",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p85_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 85,
+    "type": "table",
+    "rows": 13,
+    "columns": 3
+  }
+}

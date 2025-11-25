@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p33_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 33]\n                                                  0                  1                       2            3  4\n                       Contents of an annual report                                                           \n             The annual report will always include:                                                           \n                                           01.\\n02.                03.                     04.          05.   \n                                                          Management’s                                        \n                                     Letters to the                      Reporting on internal                \n                               Business description     Discussion and                         Audit report   \n                                       shareholders                                   controls                \n                                                       Analysis (MD&A)                                        \n                                           06.\\n07.                08.                     09.                \n                                     Balance sheet,                                                           \n                                                                            Earnings per share                \n          Income Statement \\nNotes to the financial                                                           \n                                                    Earnings per share Listing of directors of                \n                      and Statement of \\nstatements                                                           \n                                                                                   the company                \n                                         Cash Flows                                                           \n                                                                                                 Source CFI   \nPwC | Basic Understanding of a Company's Financials                                                         33",
+  "table_path": "output/tables/2. financials/2. financials_p33_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 33,
+    "type": "table",
+    "rows": 18,
+    "columns": 5
+  }
+}

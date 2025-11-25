@@ -1,0 +1,12 @@
+{
+  "chunk_id": "3. FYP-Handbook-2023_p43_table0",
+  "text": "[TABLE from 3. FYP-Handbook-2023.pdf, Page 43]\n                                                                      0\n                                    BS Final Year Project Handbook 2023\n                                                            Indentation\n      Indent all quotations comprising 4 or more lines by 5 spaces from\n                                                                  left.\n                                                           Page Numbers\n      Except for the title page, number all pages which come before the\n  ﬁrst  page  of  the  body  chapters  consecutively  with  lower  case\n                                     roman numerals (i, ii, iii, iv,…).\n     The ﬁrst page with Arabic numeral (1, 2, 3, and so on) starts from\nthe  page  of  the  introduction  but  it  is  mentioned  from  page  2\n                                                               onwards.\n       Mention page numbers on the top right of the page. The ﬁrst page\n   of  each  section  or  chapter  will  not  carry  the  page  number;\n            however, the page number will be counted for the proceeding\n                                                                  page.\n                                                                Headers\n     The header will comprise the title of the Project report. On every\n         odd page will appear the title of the report while on the even\n       pages the title of the chapter or section will be mentioned. The\n      ﬁrst page of every section or chapter shall not carry the header.",
+  "table_path": "output/tables/3. FYP-Handbook-2023/3. FYP-Handbook-2023_p43_table0.csv",
+  "metadata": {
+    "source": "3. FYP-Handbook-2023.pdf",
+    "page": 43,
+    "type": "table",
+    "rows": 20,
+    "columns": 1
+  }
+}

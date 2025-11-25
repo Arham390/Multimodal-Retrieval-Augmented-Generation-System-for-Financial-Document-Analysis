@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p11_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 11]\n                                                           0                                                                   1\n                                           Other liabilities                                                                    \n                                                 Commitments                                                       Contingencies\nCommitments are future obligations that a company agrees to. Contingencies are liabilities that may or may not happen, depending\n                                                                                                                on circumstance.\n                                                                                                                    e.g. lawsuit\n                                                                                              The liability must be recorded if:\n                                                   Leasehold                                                                    ",
+  "table_path": "output/tables/2. financials/2. financials_p11_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 11,
+    "type": "table",
+    "rows": 7,
+    "columns": 2
+  }
+}

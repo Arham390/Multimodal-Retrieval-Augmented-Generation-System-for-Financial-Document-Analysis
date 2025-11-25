@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p73_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 73]\n     0                     1\nCampus No. Corrective Action\n   CFD                     7\n   ISB                     7\n   KHI                    12\n   LHR                     9\n   PWR                     5",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p73_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 73,
+    "type": "table",
+    "rows": 6,
+    "columns": 2
+  }
+}

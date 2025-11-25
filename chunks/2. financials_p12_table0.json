@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p12_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 12]\n                                                             0  1\nIllustrative balance sheet (statement of shareholder’s equity)   \n                                       See accompanying notes.   \n           PwC | Basic Understanding of a Company's Financials 12",
+  "table_path": "output/tables/2. financials/2. financials_p12_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 12,
+    "type": "table",
+    "rows": 3,
+    "columns": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p32_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 32]\n                                                              0                                         1           2           3  4\n                               The benefits of an annual report                                                                     \nThe annual report contains a significant amount of information:                                                                     \n                                                                                                          Operational   Financial   \n                                                      Financial                             Non-financial                           \n                                                                                                          performance performance   \n                                      • Management discussion &            • Messages from the Chair, CEO                           \n                                                 analysis(MD&A)                       • Corporate profile                           \n                                         • Financial statements                                    • MD&A                           \n                                                                                                                        Strategic   \n                                • Notes to financial statements • Risk and control processes and analysis                           \n                                                                                                                        direction   \n                                                                                                                       Source CFI   \n            PwC | Basic Understanding of a Company's Financials                                                                   32",
+  "table_path": "output/tables/2. financials/2. financials_p32_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 32,
+    "type": "table",
+    "rows": 13,
+    "columns": 5
+  }
+}

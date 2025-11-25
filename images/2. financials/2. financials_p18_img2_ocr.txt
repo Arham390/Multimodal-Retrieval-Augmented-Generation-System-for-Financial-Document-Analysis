@@ -1,0 +1,23 @@
+Example:
+
+Revenue (+)
+
+Cost of Goods Sold (-)
+
+Gross Profit
+
+Selling, General & Administrative (-)
+Operating income
+
+Gains (+)
+
+Losses (-)
+
+Other Expenses (-)
+
+Pre-tax income
+
+Income taxes (-)
+
+Net income
+

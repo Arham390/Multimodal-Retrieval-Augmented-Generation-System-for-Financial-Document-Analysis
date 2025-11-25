@@ -1,0 +1,10 @@
+{
+  "chunk_id": "3. FYP-Handbook-2023_p44_text0",
+  "text": "FAST-NUCES\n41\nBS Final Year Project Handbook 2023\n9. FYP Report Contents\nThere are two types of FYPs – R&D and development. \nTherefore, the basic contents for the two types of reports are \ngiven below as a guideline. A speciﬁc and tailored format \naccording to an FYP's need is suggested by a supervisor.\nDevelopment FYP Report Format\n1. Introduction \n2. Research on existing products\n3. Project Vision \n3.1. Problem Statement \n3.2. Business Opportunity \n3.3. Objectives \n3.4. Project Scope \n3.5. Constraints\n3.6. Stakeholders Description\n \n3.6.1. Stakeholders Summary\n \n3.6.2. Key High Level Goals and Problems of \nStakeholders\n4. Software Requirement Speciﬁcations\n4.1. List of Features\n4.2. Functional Requirements\n4.3. Non-Functional Requirements\n5. Iteration Plan\n6. Iteration 1 (all artifacts mentioned in Table 1a)\n7. Iteration 2 (all artifacts mentioned in Table 1a)\n \nand so on … (for subsequent iterations)\n8. Implementation Details (not the programming code but the \nalgorithmic and procedural details especially related to the \nhidden/ backend algorithms that are not covered in the design)\n9. User Manual",
+  "metadata": {
+    "source": "3. FYP-Handbook-2023.pdf",
+    "page": 44,
+    "type": "text",
+    "length": 1117
+  }
+}

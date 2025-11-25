@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p72_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 72]\n     0  1                                               2   3                        4          5\nCampus    Total Programs  No.  Programs  went  under  SAP No.                       of Corrective\n                                 as per its due SAP cycle     actions  taken  in  year           \n                                                                               2023-24           \n   CFD 11                                               1  20                                    \n   ISB 23                                              13  09                                    \n   KHI 15                                               5  19                                    \n   LHR 24                                               8 103                                    \n   PWR  9                                               2  36                                    ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p72_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 72,
+    "type": "table",
+    "rows": 8,
+    "columns": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p66_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 66]\n                                            0    1    2    3    4    5\nCampus wise publications – Five Years Summary                         \n                                       Campus 2019 2020 2021 2022 2023\n                     Chiniot-Faisalabad (CFD)   22   40   70   79   52\n                              Islamabad (ISB)   62   88  126  124  119\n                                Karachi (KHI)   13   17   30   36   51\n                                 Lahore (LHR)   51   94  116  119  132\n                               Peshawar (PWR)   13   17   33   57   20\n                                     G. Total  161  256  375  415  367",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p66_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 66,
+    "type": "table",
+    "rows": 8,
+    "columns": 6
+  }
+}

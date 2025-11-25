@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p72_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 72]\n                              0                                                                                          1\n                                etails of corrective measures taken during 2023-24 against the findings highlighted by the\nreview panel during its visits.                                                                                           \n                         Campus                                                                   No. of Corrective Action\n                            CFD                                                                                         27\n                            ISB                                                                                          4\n                            KHI                                                                                         19\n                            LHR                                                                                         31\n                            PWR                                                                                         24",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p72_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 72,
+    "type": "table",
+    "rows": 8,
+    "columns": 2
+  }
+}

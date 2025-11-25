@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p65_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 65]\n                                        0            1\n                            CFD\\nISB\\nKHI     LHR\\nPWR\nepartment wise impact factor publications             \n                              Departments Publications\n               Civil Engineering (Civ. E)           18\n                    Computer Science (CS)          167\n              Electrical Engineering (EE)           55\n                Management Sciences (FSM)           38\n              Sciences & Humanities (S&H)          100\n                                 G. Total          378",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p65_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 65,
+    "type": "table",
+    "rows": 9,
+    "columns": 2
+  }
+}

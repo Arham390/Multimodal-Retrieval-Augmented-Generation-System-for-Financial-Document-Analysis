@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p65_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 65]\n                                     0            1\nCampus wise impact factor publications             \n                                Campus Publications\n              Chiniot-Faisalabad (CFD)           52\n                       Islamabad (ISB)          119\n                         Karachi (KHI)           51\n                          Lahore (LHR)          132\n                        Peshawar (PWR)           20\n                              G. Total          374",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p65_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 65,
+    "type": "table",
+    "rows": 8,
+    "columns": 2
+  }
+}

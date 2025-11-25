@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p29_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 29]\n                                                  0                                     1  2\n                      The Full Disclosure Principle                                         \n                                                                     For full disclosure:   \n                                                          Notes are provided to allow the   \n                                                    reader of the financial statements to   \n                                                        understand and make judgements of   \n                                                     financial activities of the company.   \n                            See accompanying notes.                                         \nPwC | Basic Understanding of a Company's Financials                                       29",
+  "table_path": "output/tables/2. financials/2. financials_p29_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 29,
+    "type": "table",
+    "rows": 8,
+    "columns": 3
+  }
+}

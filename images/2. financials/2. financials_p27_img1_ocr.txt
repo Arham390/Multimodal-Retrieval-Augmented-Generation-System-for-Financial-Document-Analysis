@@ -1,0 +1,15 @@
+Operating activities
+Cash collected from customers
+Cash paid to suppliers
+Cash paid to employees
+Cash flow from operating activities
+Investing activities
+Purchase of equipment
+Disposal of property
+Cash flow from investing activities
+Financing activities
+Issuance of shares
+Repayment of debt
+Cash flow from financing activities
+Net movement in cash
+

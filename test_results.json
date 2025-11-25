@@ -1,0 +1,139 @@
+{
+  "queries": [
+    {
+      "query": "What was the total revenue?",
+      "prompt_type": "zero_shot",
+      "metrics": {
+        "query": "What was the total revenue?",
+        "response_length": 748,
+        "num_retrieved": 5,
+        "relevance_score": 0.39819169640541074
+      },
+      "time": 7.8620686531066895
+    },
+    {
+      "query": "What was the total revenue?",
+      "prompt_type": "few_shot",
+      "metrics": {
+        "query": "What was the total revenue?",
+        "response_length": 748,
+        "num_retrieved": 5,
+        "relevance_score": 0.39819169640541074
+      },
+      "time": 8.77490520477295
+    },
+    {
+      "query": "What was the total revenue?",
+      "prompt_type": "cot",
+      "metrics": {
+        "query": "What was the total revenue?",
+        "response_length": 748,
+        "num_retrieved": 5,
+        "relevance_score": 0.39819169640541074
+      },
+      "time": 8.553083658218384
+    },
+    {
+      "query": "What was the total revenue?",
+      "prompt_type": "analytical",
+      "metrics": {
+        "query": "What was the total revenue?",
+        "response_length": 649,
+        "num_retrieved": 5,
+        "relevance_score": 0.39819169640541074
+      },
+      "time": 7.920938014984131
+    },
+    {
+      "query": "Analyze expense trends",
+      "prompt_type": "zero_shot",
+      "metrics": {
+        "query": "Analyze expense trends",
+        "response_length": 1118,
+        "num_retrieved": 5,
+        "relevance_score": 0.39414105415344236
+      },
+      "time": 8.594860792160034
+    },
+    {
+      "query": "Analyze expense trends",
+      "prompt_type": "few_shot",
+      "metrics": {
+        "query": "Analyze expense trends",
+        "response_length": 1118,
+        "num_retrieved": 5,
+        "relevance_score": 0.39414105415344236
+      },
+      "time": 7.996916770935059
+    },
+    {
+      "query": "Analyze expense trends",
+      "prompt_type": "cot",
+      "metrics": {
+        "query": "Analyze expense trends",
+        "response_length": 1118,
+        "num_retrieved": 5,
+        "relevance_score": 0.39414105415344236
+      },
+      "time": 8.322035551071167
+    },
+    {
+      "query": "Analyze expense trends",
+      "prompt_type": "analytical",
+      "metrics": {
+        "query": "Analyze expense trends",
+        "response_length": 1118,
+        "num_retrieved": 5,
+        "relevance_score": 0.39414105415344236
+      },
+      "time": 8.642532348632812
+    },
+    {
+      "query": "Key performance indicators?",
+      "prompt_type": "zero_shot",
+      "metrics": {
+        "query": "Key performance indicators?",
+        "response_length": 1116,
+        "num_retrieved": 5,
+        "relevance_score": 0.381645530462265
+      },
+      "time": 8.140196800231934
+    },
+    {
+      "query": "Key performance indicators?",
+      "prompt_type": "few_shot",
+      "metrics": {
+        "query": "Key performance indicators?",
+        "response_length": 2748,
+        "num_retrieved": 5,
+        "relevance_score": 0.381645530462265
+      },
+      "time": 8.874593496322632
+    },
+    {
+      "query": "Key performance indicators?",
+      "prompt_type": "cot",
+      "metrics": {
+        "query": "Key performance indicators?",
+        "response_length": 1095,
+        "num_retrieved": 5,
+        "relevance_score": 0.381645530462265
+      },
+      "time": 9.221230030059814
+    },
+    {
+      "query": "Key performance indicators?",
+      "prompt_type": "analytical",
+      "metrics": {
+        "query": "Key performance indicators?",
+        "response_length": 1095,
+        "num_retrieved": 5,
+        "relevance_score": 0.381645530462265
+      },
+      "time": 8.1873459815979
+    }
+  ],
+  "performance": {
+    "avg_relevance_score": 0.40539360993048723
+  }
+}

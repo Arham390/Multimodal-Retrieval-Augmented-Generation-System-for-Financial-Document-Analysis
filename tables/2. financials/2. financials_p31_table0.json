@@ -1,0 +1,42 @@
+[
+  {
+    "0":"Performance Ratio",
+    "1":"Solvency Ratios",
+    "2":"Investor Ratios"
+  },
+  {
+    "0":"\u2022 Net Profit margin,",
+    "1":"\u2022 Solvency Ratios",
+    "2":"\u2022 Dividend yield,"
+  },
+  {
+    "0":"\u2022\nreturn on assets (ROA)",
+    "1":"\u2022 Current ratio= Current assets\/Current",
+    "2":"\u2022 P\/E ratio,"
+  },
+  {
+    "0":"\u2022\nreturn on equity(ROE)",
+    "1":"liabilities",
+    "2":"\u2022\nearnings per share (EPS),"
+  },
+  {
+    "0":"\u2022\nreturn on capital employed (ROCE),",
+    "1":"\u2022\nLeverage or Gearing",
+    "2":"\u2022\ndividend payout ratio"
+  },
+  {
+    "0":"\u2022\ngross margin ratios",
+    "1":"\u2022 Operating cash flow\/Interest paid",
+    "2":""
+  },
+  {
+    "0":"\u2022 Efficiency (",
+    "1":"\u2022 Operating cash flow\/Dividends paid",
+    "2":""
+  },
+  {
+    "0":"",
+    "1":"\u2022 Operating cash flow\/Operating profit",
+    "2":""
+  }
+]

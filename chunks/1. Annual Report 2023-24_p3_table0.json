@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p3_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 3]\n                                                                                               0\n                                                                                        Preamble\n        A\\ns we reflect on another year of growth and achievement, we proudly present the Annual\n              Report for the National University of Computer and Emerging Sciences (FAST-NUCES).\n            Founded as a Federally Chartered University in July 2000, FASTNUCES has emerged as a\n    premier institution in Pakistan, distinguished by the quality and impact of its graduates in\n      the local software and technology sectors. With five modern campuses strategically located\nin  Karachi,  Lahore,  Islamabad,  Peshawar,  and  Chiniot-Faisalabad,  fostering  an  inclusive\n          environment with a vibrant community of female scholars. Our commitment to providing a\n      world-class educational experience is matched by our dedication to advancing research that\n        addresses the pressing social, economic, and technological challenges facing our nation.",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p3_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 3,
+    "type": "table",
+    "rows": 10,
+    "columns": 1
+  }
+}

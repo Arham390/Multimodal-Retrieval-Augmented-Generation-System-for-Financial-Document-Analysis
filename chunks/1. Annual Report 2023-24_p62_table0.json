@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p62_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 62]\n0                                                                                                  1\n               Further details regarding the projects and achievements of these research labs can be\n           accessed through our official ORIC website at https//www.nu.edu.pk/Oric/OricResearchLabs.\n           This platform serves as a gateway for national and international organizations to connect\n            with relevant research labs for collaborative research and development initiatives. Such\n                  collaborations ultimately prove beneficial for the university and its stakeholders\n•            A  new  Chip  design  centre  has  been  established  at  Islamabad  campus  with \\nthe\n          collaboration  of  GS  Microelectronics  US  Inc.  The  centre,  named  GF-Metrc,  focuses\n           primarily on Integrated Circuit (IC) design, research, training, and fostering innovation\n                                        and commercialization, leveraging the partnership with GSME.\n•             ORIC is supporting its faculty members and researchers in establishing their technical\n       start-ups, \\nincluding  providing  support \\nthroughout \\nthe  trademark  and  patent  filing\n             processes. Notably, recently a new Start up (iParahi) has achieved success in trademark\n  registration.  Additionally,  the  founder  is  actively  engaged  in  the  process  of  filing  a\n                                                     patent application for his forthcoming product.",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p62_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 62,
+    "type": "table",
+    "rows": 14,
+    "columns": 2
+  }
+}

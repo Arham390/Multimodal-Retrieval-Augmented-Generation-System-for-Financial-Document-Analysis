@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p59_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 59]\n                       0                                                              1\n             O\\nRIC Team                                                               \n                  N\\name                                                    Designation\n       Dr. M. Asif Naeem                                                  Director ORIC\nEngr. M. Aatif Saif Khan                                    Manager Research Management\n           Mr. Rana Ayaz                         Manager Innovation & Commercialization\n Ms. Sayeda Sadia Batool                                      Grants Management Officer\n       Ms. Maryam Mehtab                                               Research Officer\n        Ms. Aysha Shafiq Assistant Manager (Career Services, Chiniot Faisalabad Campus)\n         Ms. Iram Arshad          Assistant Manager (Career Services, Islamabad Campus)\n      Ms. Aysha Siddiqui            Assistant Manager (Career Services, Karachi Campus)\n     Mr. Bashir Muhammad                       Manager (Career Services, Lahore Campus)\n          Mr. Riaz Nawab                     Officer (Career Services, Peshawar Campus)",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p59_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 59,
+    "type": "table",
+    "rows": 12,
+    "columns": 2
+  }
+}

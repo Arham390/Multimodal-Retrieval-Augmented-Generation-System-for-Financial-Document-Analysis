@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+"L
+ahore Campus",,,,,,,,,,,,
+,,Professor,,,Associate,,,Assistant,,,Lecturer,
+Department,,,,,Professor,,,Professor,,,,
+,Male,,Female,Male,,Female,Male,,Female,Male,,Female
+Artificial Intelligence and Data Science,1,,-,-,,1,1,,2,2,,5
+Civil Engineering,2,,-,1,,-,4,,-,5,,2
+Computer Science,2,,2,2,,1,9,,6,10,,12
+Cyber Security,-,,-,2,,-,1,,-,-,,-
+Electrical Engineering,2,,1,1,,-,4,,3,4,,4
+Management Sciences,1,,-,1,,-,6,,3,3,,10
+Sciences & Humanities,3,,2,-,,1,2,,7,5,,10
+Software Engineering,-,,-,1,,-,2,,-,4,,6
+Total,11,,5,8,,3,29,,21,33,,49
+,,16,,,11,,,50,,,82,

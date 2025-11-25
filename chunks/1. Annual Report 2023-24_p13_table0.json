@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p13_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 13]\n                 0              1      2                           3            4     5      6      7     8\n                                         Chapter-2 Faculty and Staff                                       \n                 F aculty Summary                                                                          \n          Campuses          Prof. Assoc.                Asst. Profs. Asst. Profs. Lect. Instr.    Lab Total\n                                  Profs.                                                       Engrs.      \n                                                               (PhD)    (non-PhD)                          \nChiniot-Faisalabad              2      4                          17            8    58     12      2   103\n         Islamabad             19     14                          46           16    83     50      8   236\n           Karachi              4      6                          23           10    84     26      4   157\n            Lahore             16     11                          29           21    82     19     10   188\n          Peshawar              1      2                          13            3    18      8      6    51\n             Total             42     37                         128           58   325    115     30   735",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p13_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 13,
+    "type": "table",
+    "rows": 11,
+    "columns": 9
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p17_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 17]\n                                                  0  1\n                                   Income Statement   \n          The Income statement has 3 main sections:   \n                                           Revenues   \n                                           Expenses   \n                                     Profit or loss   \nPwC | Basic Understanding of a Company's Financials 17",
+  "table_path": "output/tables/2. financials/2. financials_p17_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 17,
+    "type": "table",
+    "rows": 6,
+    "columns": 2
+  }
+}

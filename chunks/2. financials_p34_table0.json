@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p34_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 34]\n                                                                                  0                       1  2\n                                                 Management discussion and analysis                           \nMD&A provides information regarding past performance and future strategic direction                           \n                                                           Acts as sort of variance        Explains company   \n                                                                           analysis             performance   \n                                                         Lists future actions to be Identifies the key risk   \n                                                                              taken facing the organization   \n                                PwC | Basic Understanding of a Company's Financials                         34",
+  "table_path": "output/tables/2. financials/2. financials_p34_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 34,
+    "type": "table",
+    "rows": 7,
+    "columns": 3
+  }
+}

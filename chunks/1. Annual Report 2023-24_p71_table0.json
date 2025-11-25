@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p71_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 71]\n  0                                             1                2          3\nNo.                                       Program           Campus     Status\n 4.         Master of Science (Civil Engineering)              LHR Sanctioned\n 5.            Master of Science (Cyber Security)    ISB, KHI, LHR Sanctioned\n 6.          Master of Science (Computer Science) CFD,  ISB,  KHI, Sanctioned\n                                                          LHR, PWR           \n 7.              Master of Science (Data Science) CFD,  ISB,  KHI, Sanctioned\n                                                          LHR, PWR           \n 8.    Master of Science (Electrical Engineering) CFD,  ISB,  KHI, Sanctioned\n                                                               LHR           \n 9.               Master of Science (Mathematics)              LHR Sanctioned\n10.      Master of Science (Software Engineering)         ISB, KHI Sanctioned\n11.   Master \\nof \\nScience \\n(Software \\nProject         KHI, LHR Sanctioned\n                                      Management)                            \n12.                                                                          \n                Master of Business Administration         CFD, LHR Sanctioned\n13.      Doctor of Philosophy (Civil Engineering)              LHR Sanctioned\n14.       Doctor of Philosophy (Computer Science) CFD,  ISB,  KHI, Sanctioned\n                                                          LHR, PWR           \n15. Doctor of Philosophy (Electrical Engineering) CFD,  ISB,  KHI, Sanctioned\n                                                               LHR           \n16.    Doctor of Philosophy (Management Sciences)         ISB, LHR Sanctioned\n17.            Doctor of Philosophy (Mathematics)              LHR Sanctioned\n18.   Doctor of Philosophy (Software Engineering)         ISB, KHI Sanctioned",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p71_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 71,
+    "type": "table",
+    "rows": 23,
+    "columns": 4
+  }
+}

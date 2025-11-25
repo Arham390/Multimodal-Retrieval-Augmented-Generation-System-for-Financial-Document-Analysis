@@ -1,0 +1,11 @@
+{
+  "chunk_id": "2. financials_p12_img2",
+  "image_path": "output/images/2. financials/2. financials_p12_img2.png",
+  "width": 685,
+  "height": 204,
+  "caption": "a detailed description of this financial chart or document shows the capital and reserve attributes",
+  "ocr_text": "LSPRSt GUNG FOSCIVSS GUIIULGINS tO\nthe company's equity holders\nShare capital\n\nCapital reserve\n\nTranslation reserve\n\nRetained earnings\n\nTotal Equity\n\nTotal Liabilities and Equity\n\n1,192,647 1,192,647\n119,946 130,832\n30,086 29,048\n\n7,347,482 9,733,054\n8,690,161 11,085,581\n\n15.731.058 17,778,979",
+  "embedding_shape": [
+    512
+  ]
+}

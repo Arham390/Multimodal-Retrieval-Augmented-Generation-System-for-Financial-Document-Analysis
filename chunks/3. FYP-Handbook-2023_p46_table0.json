@@ -1,0 +1,12 @@
+{
+  "chunk_id": "3. FYP-Handbook-2023_p46_table0",
+  "text": "[TABLE from 3. FYP-Handbook-2023.pdf, Page 46]\n                                       0                                                 1\n                                                                               paragraphs)\n                                             2.5.2. Critical analysis of the research item\n                                                                (Strengths and Weaknesses)\n                                         2.5.3. Relationship to the proposed research work\n                              Chapter 3.       Proposed  Approach  (Framework/  Heuristic/\n                                                  Algorithm/ Protocol/ Mathematical-model)\n                              Chapter 4.       Implementation (Simulations or Experiments)\n     Chapter 5.   Validation and Testing                                                  \n     Chapter 6.   Results and Discussion                                                  \nChapter 7.   Conclusions and Future Work                                                  \n                              References                                                  \n                              Appendices                                                  ",
+  "table_path": "output/tables/3. FYP-Handbook-2023/3. FYP-Handbook-2023_p46_table0.csv",
+  "metadata": {
+    "source": "3. FYP-Handbook-2023.pdf",
+    "page": 46,
+    "type": "table",
+    "rows": 12,
+    "columns": 2
+  }
+}

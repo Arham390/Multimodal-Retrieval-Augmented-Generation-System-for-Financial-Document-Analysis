@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p35_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 35]\n                                                                                                                                                            0\n                                                                                                                                                    Thank you\n                                                                                                                                                   pwc.com/jm\n© 2020 PricewaterhouseCoopers. All rights reserved.  PwC refers to the Jamaica member firm, and may sometimes refer to the PwC network. Each member firm is a\n                                                                                 separate legal entity. Please see www.pwc.com/structure for further details.",
+  "table_path": "output/tables/2. financials/2. financials_p35_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 35,
+    "type": "table",
+    "rows": 4,
+    "columns": 1
+  }
+}

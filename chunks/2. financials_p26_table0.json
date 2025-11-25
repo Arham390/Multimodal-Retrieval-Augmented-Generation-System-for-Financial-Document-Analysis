@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p26_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 26]\n                                                  0                        1  2\n                            Statement of Cash Flows                            \n      The transactions are sorted by activity type:                            \n                                          Operating                            \n                                                    The closing cash balance   \n                                          Investing                            \n                                                       All cash transactions   \n                                          Financing                            \n                                                    The opening cash balance   \n                                                                  Source CFI   \nPwC | Basic Understanding of a Company's Financials                          26",
+  "table_path": "output/tables/2. financials/2. financials_p26_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 26,
+    "type": "table",
+    "rows": 10,
+    "columns": 3
+  }
+}

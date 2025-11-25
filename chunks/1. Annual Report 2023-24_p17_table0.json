@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p17_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 17]\n                    0    1         2      3    4         5      6    7         8      9    10       11     12\n     P\\neshawar Campus                                                                                       \n                            Professor             Associate             Assistant             Lecturer       \n            Department                            Professor             Professor                            \n                       Male           Female Male           Female Male           Female Male          Female\n  Computer Engineering    -                -    -                -    2                -    1               -\n      Computer Science    1                -    2                -    9                -    7               2\nElectrical Engineering    -                -    -                -    2                -    -               -\n Sciences & Humanities    -                -    -                -    3                -    4               4\n                 Total    1                -    2                -   16                -   12               6\n                                    1                     2                    16                   18       ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p17_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 17,
+    "type": "table",
+    "rows": 10,
+    "columns": 13
+  }
+}

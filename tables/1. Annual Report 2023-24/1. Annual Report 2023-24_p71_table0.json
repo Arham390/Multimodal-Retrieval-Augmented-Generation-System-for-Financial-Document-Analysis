@@ -1,0 +1,140 @@
+[
+  {
+    "0":"No.",
+    "1":"Program",
+    "2":"Campus",
+    "3":"Status"
+  },
+  {
+    "0":"4.",
+    "1":"Master of Science (Civil Engineering)",
+    "2":"LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"5.",
+    "1":"Master of Science (Cyber Security)",
+    "2":"ISB, KHI, LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"6.",
+    "1":"Master of Science (Computer Science)",
+    "2":"CFD,  ISB,  KHI,",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"",
+    "2":"LHR, PWR",
+    "3":""
+  },
+  {
+    "0":"7.",
+    "1":"Master of Science (Data Science)",
+    "2":"CFD,  ISB,  KHI,",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"",
+    "2":"LHR, PWR",
+    "3":""
+  },
+  {
+    "0":"8.",
+    "1":"Master of Science (Electrical Engineering)",
+    "2":"CFD,  ISB,  KHI,",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"",
+    "2":"LHR",
+    "3":""
+  },
+  {
+    "0":"9.",
+    "1":"Master of Science (Mathematics)",
+    "2":"LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"10.",
+    "1":"Master of Science (Software Engineering)",
+    "2":"ISB, KHI",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"11.",
+    "1":"Master \nof \nScience \n(Software \nProject",
+    "2":"KHI, LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"Management)",
+    "2":"",
+    "3":""
+  },
+  {
+    "0":"12.",
+    "1":"",
+    "2":"",
+    "3":""
+  },
+  {
+    "0":"",
+    "1":"Master of Business Administration",
+    "2":"CFD, LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"13.",
+    "1":"Doctor of Philosophy (Civil Engineering)",
+    "2":"LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"14.",
+    "1":"Doctor of Philosophy (Computer Science)",
+    "2":"CFD,  ISB,  KHI,",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"",
+    "2":"LHR, PWR",
+    "3":""
+  },
+  {
+    "0":"15.",
+    "1":"Doctor of Philosophy (Electrical Engineering)",
+    "2":"CFD,  ISB,  KHI,",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"",
+    "1":"",
+    "2":"LHR",
+    "3":""
+  },
+  {
+    "0":"16.",
+    "1":"Doctor of Philosophy (Management Sciences)",
+    "2":"ISB, LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"17.",
+    "1":"Doctor of Philosophy (Mathematics)",
+    "2":"LHR",
+    "3":"Sanctioned"
+  },
+  {
+    "0":"18.",
+    "1":"Doctor of Philosophy (Software Engineering)",
+    "2":"ISB, KHI",
+    "3":"Sanctioned"
+  }
+]

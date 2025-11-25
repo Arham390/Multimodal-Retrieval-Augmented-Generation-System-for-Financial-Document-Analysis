@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p31_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 31]\n                                    0                                       1                            2\n                    Performance Ratio                         Solvency Ratios              Investor Ratios\n                 • Net Profit margin,                       • Solvency Ratios            • Dividend yield,\n            •\\nreturn on assets (ROA) • Current ratio= Current assets/Current                 • P/E ratio,\n             •\\nreturn on equity(ROE)                             liabilities •\\nearnings per share (EPS),\n•\\nreturn on capital employed (ROCE),                  •\\nLeverage or Gearing     •\\ndividend payout ratio\n               •\\ngross margin ratios     • Operating cash flow/Interest paid                             \n                       • Efficiency (    • Operating cash flow/Dividends paid                             \n                                       • Operating cash flow/Operating profit                             ",
+  "table_path": "output/tables/2. financials/2. financials_p31_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 31,
+    "type": "table",
+    "rows": 8,
+    "columns": 3
+  }
+}

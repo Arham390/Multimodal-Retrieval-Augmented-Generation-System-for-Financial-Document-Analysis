@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p23_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 23]\n                                                                                   0                                     1\n      On  1st  November  2023,  FAST-NUCES  Chiniot-Faisalabad  Campus  organized  a                                      \npanel  discussion  titled  \"Understanding  Application  Development  From  CS  &  SE                                      \n                                  Professional  Perspective\".  The  session  brought      together  esteemed  faculty  and\n                                                         industry experts, including                                      \n                                            Mr. Owais Ahmad Khan, CEO of Zai Systems                                      \n                              Mr. Affan Rauf, HoD-SE & Assistant Professor, FAST CFD                                      \n                                   Dr. Qamar Uz Zaman, Assistant Professor, FAST CFD                                      \n                                    Mr. Rizwan Ul Haq, Assistant Professor, FAST CFD                                      \n                                         Mr. Jawad Khalid Cheema, Lecturer, FAST CFD                                      \n                                     The  panelists  discussed \\nthe  practical  and theoretical  aspects  of  application",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p23_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 23,
+    "type": "table",
+    "rows": 10,
+    "columns": 2
+  }
+}

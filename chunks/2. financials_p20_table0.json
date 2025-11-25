@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p20_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 20]\n                                                  0          1  2\n                                      Cost of sales              \n               Cost of goods sold or Cost of sales:              \n             • May be shown as summarised line item              \n          • May be broken Down to its expense items              \n                                   Direct Materials              \n             (e.g. materials used in manufacturing)              \n                                       Direct Labor              \n             (e.g. professional services delivered)              \n                                    Direct overhead              \n       (to the production of the goods or services)              \n                                                    Source CFI   \nPwC | Basic Understanding of a Company's Financials            20",
+  "table_path": "output/tables/2. financials/2. financials_p20_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 20,
+    "type": "table",
+    "rows": 12,
+    "columns": 3
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p10_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 10]\n                                                  0       1                        2                                  3  4\n           Illustrative balance sheet (liabilities)                                                                       \n                                                    Current                                                               \n                                                                         Liabilities                                      \n                                                                                     • Will be paid in less than 1 year   \n                                                            • Trade accounts payable                                      \n                                                                         Non-current                                      \n                                                                         Liabilities                                      \n                                                                                        • Repayment terms longer than 1   \n                                                                                                                   year   \n                                                                                   •       Loan repayable over a 5 year   \n                                                                                                                 period   \n                            See accompanying notes.                                                                       \nPwC | Basic Understanding of a Company's Financials                                                                     10",
+  "table_path": "output/tables/2. financials/2. financials_p10_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 10,
+    "type": "table",
+    "rows": 13,
+    "columns": 5
+  }
+}

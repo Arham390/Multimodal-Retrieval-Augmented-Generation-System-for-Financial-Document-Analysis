@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p27_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 27]\n0\n \n \n \n \n \n \n \n \n \n \n ",
+  "table_path": "output/tables/2. financials/2. financials_p27_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 27,
+    "type": "table",
+    "rows": 11,
+    "columns": 1
+  }
+}

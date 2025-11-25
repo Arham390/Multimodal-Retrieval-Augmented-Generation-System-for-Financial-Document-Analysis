@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p81_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 81]\n                                      0                                                                                   1\nefficient experience for all attendees.                                                                                    \n                  6.  Industrial Visits                                                                                    \n                                             o  HMC  Taxila  Visit  On  November  27,  2023,  FSM  students  visited  Heavy\n                                                 Mechanical Complex (HMC) in Taxila. The visit offered students a firsthand\n                                             look at the industrial manufacturing processes and operations, enriching their\n                                             understanding of engineering applications in a large-scale industrial setting.\n                                        o  Attock  Refinery  Morgah  Visit  An  industrial  visit  to  Attock  Refinery  in\n                                                    Morgah was arranged for FSM students. This opportunity allowed students\n                                            to observe the refinery’s operations, gaining practical insights into petroleum\n                                                                        processing and the engineering techniques involved.\n                                                o  Telenor Head Office Visit On April 29, 2024, a group of students visited\n                                                the Telenor Head Office. This visit provided them with a unique opportunity\n                            to  explore                  the  functioning  of  a  major  enterprise,  understand  corporate\n                                           workflows,  and  gain  exposure  to  real-world  organizational  structures  and\n                            operations.                                                                                    ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p81_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 81,
+    "type": "table",
+    "rows": 15,
+    "columns": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "3. FYP-Handbook-2023_p41_table0",
+  "text": "[TABLE from 3. FYP-Handbook-2023.pdf, Page 41]\n                                                                     0\n                                   BS Final Year Project Handbook 2023\n     Any tables, ﬁgures, form, or other materials that are not totally\n   central to the analysis but that need to be shown are placed in the\n                                                             Appendix.\n                                                  Footnotes/ End Notes\n     Footnotes are located at the bottom of a page. End notes are like\n       footnotes but are located at the back rather than the bottom of\n    each page. These would include all of the references for all works\ncited in the review of related literature or any other sections of the\n     report as well as the references for quotations, either direct or\n     indirect, taken from other sources, or any footnote comments that\n        might have been included. These are listed in numeric order as\n                                                presented in the text.",
+  "table_path": "output/tables/3. FYP-Handbook-2023/3. FYP-Handbook-2023_p41_table0.csv",
+  "metadata": {
+    "source": "3. FYP-Handbook-2023.pdf",
+    "page": 41,
+    "type": "table",
+    "rows": 13,
+    "columns": 1
+  }
+}

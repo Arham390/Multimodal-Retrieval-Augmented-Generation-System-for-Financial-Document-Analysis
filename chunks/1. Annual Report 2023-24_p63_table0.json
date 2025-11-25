@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p63_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 63]\n                                                                0                1\n                                 Chapter-6 Research & Development                 \nCampus Wise information of Journal Articles and Conference Papers                 \n                                                           Campus Journal Articles\n                                         Chiniot-Faisalabad (CFD)               57\n                                                  Islamabad (ISB)              128\n                                                    Karachi (KHI)               62\n                                                     Lahore (LHR)              160\n                                                   Peshawar (PWR)               21\n                                                         G. Total              428",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p63_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 63,
+    "type": "table",
+    "rows": 9,
+    "columns": 2
+  }
+}

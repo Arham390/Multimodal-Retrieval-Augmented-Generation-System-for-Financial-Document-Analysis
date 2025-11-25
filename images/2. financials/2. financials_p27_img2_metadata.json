@@ -1,0 +1,11 @@
+{
+  "chunk_id": "2. financials_p27_img2",
+  "image_path": "output/images/2. financials/2. financials_p27_img2.png",
+  "width": 830,
+  "height": 606,
+  "caption": "a detailed description of this financial chart or document shows the financial activities",
+  "ocr_text": "Operating activities\nNet income\nAdd back depreciation and amortization\nAdjust change in working capital balances\nCash flow from operating activities\nInvesting activities\nPurchase of equipment\nDisposal of property\nCash flow from investing activities\nFinancing activities\nIssuance of shares\nRepayment of debt\nCash flow from financing activities\nNet movement in cash",
+  "embedding_shape": [
+    512
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p14_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 14]\n                                                  0       1          2                                                                3  4\n                              Aspects of the equity                                                                                       \n                                Contributed Surplus                                                          Other comprehensive income   \n                                                                                                                                          \n                              Aspects of the Equity                                                   Other comprehensive income (OCI):   \n                                Contributed surplus                    •\\ncertain company gains and losses that are not always recorded   \n                                                                                                           through the income statement   \n                                                                            e.g. unrealised gains and losses on investments and hedging   \n                                      Par\\nReceives                                                                                       \n                                                                                                                            instruments   \n               e.g. 180,000 shares 40¢/each 25¢/par                                                                                       \n              Paid-up share capital (180,000 x 25¢) $45,000                                                                               \n                Contributed surplus (180,000 x 15¢) $27,000                                                                               \n                                                            Source CFI                                                                    \nPwC | Basic Understanding of a Company's Financials                                                                                     14",
+  "table_path": "output/tables/2. financials/2. financials_p14_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 14,
+    "type": "table",
+    "rows": 14,
+    "columns": 5
+  }
+}

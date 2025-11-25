@@ -1,0 +1,16 @@
+{
+  "chunk_id": "2. financials_p1_img1",
+  "text": "[IMAGE from 2. financials.pdf, Page 1]\nDescription: a detailed description of this financial chart or document is a great example of a woman ' s work\n",
+  "image_path": "output/images/2. financials/2. financials_p1_img1.png",
+  "caption": "a detailed description of this financial chart or document is a great example of a woman ' s work",
+  "ocr_text": "",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 1,
+    "type": "image",
+    "dimensions": [
+      1408,
+      681
+    ]
+  }
+}

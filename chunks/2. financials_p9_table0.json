@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p9_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 9]\n                                         0                                             1                                             2\n                              Other assets                                                                                            \n                                  Goodwill                              Intangible Asset                     Unearned/Differed Revenue\n                       • Non-current asset Intangible assets are items of value that are        Unearned revenue arises when a company\n                                                   used to generate revenues and have no sells something it has not yet delivered e.g.\n            • Company has intangible Value                                                                                            \n                                                                     physical substance.              licenses, subscriptions 12 month\ne.g. brand, customers,intellectual capital                                                                                            \n                                                                                              subscription sold for $1,200 in January:\n   If a company is purchased for more than                                                                                            ",
+  "table_path": "output/tables/2. financials/2. financials_p9_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 9,
+    "type": "table",
+    "rows": 9,
+    "columns": 3
+  }
+}

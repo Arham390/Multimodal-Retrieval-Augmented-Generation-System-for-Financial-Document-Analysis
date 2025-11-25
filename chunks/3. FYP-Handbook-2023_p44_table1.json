@@ -1,0 +1,12 @@
+{
+  "chunk_id": "3. FYP-Handbook-2023_p44_table1",
+  "text": "[TABLE from 3. FYP-Handbook-2023.pdf, Page 44]\n                               0\n   Development FYP Report Format\n                 1. Introduction\n2. Research on existing products\n               3. Project Vision\n          3.1. Problem Statement\n       3.2. Business Opportunity\n                 3.3. Objectives\n              3.4. Project Scope\n                3.5. Constraints\n   3.6. Stakeholders Description\n     3.6.1. Stakeholders Summary",
+  "table_path": "output/tables/3. FYP-Handbook-2023/3. FYP-Handbook-2023_p44_table1.csv",
+  "metadata": {
+    "source": "3. FYP-Handbook-2023.pdf",
+    "page": 44,
+    "type": "table",
+    "rows": 11,
+    "columns": 1
+  }
+}

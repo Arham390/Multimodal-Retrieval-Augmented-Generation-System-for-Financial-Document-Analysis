@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p80_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 80]\n                                                   0                                                                           1         2   3        4   5              6          7\no  Coca-Cola  Icecek  x  FAST  On  March  21,  2024,                                                                                                        this  flagship    trainee\n                                                        program recruitment drive connected students with Coca-Cola Icecek’s CCI                                                     \n                                                        Next Talent Program. Trainees gain the opportunity to work for 12 months                                                     \n                                                        in core functions like Sales, Marketing, Supply  Chain, Human Resources,                                                     \n                                                     and  Finance.  Open  to  Bachelor’s  students  in  Engineering,  Management                                                     \n                                           Sciences,                                                                      Social Sciences, and Finance, the        program emphasized\n                                                                     professional development in a global corporate environment.                                                     ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p80_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 80,
+    "type": "table",
+    "rows": 7,
+    "columns": 8
+  }
+}

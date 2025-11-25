@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p64_table1",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 64]\n                          0                 1\n             Civ. E\\nCS\\nEE          FSM\\nS&H\n                Departments Conference Papers\n Civil Engineering (Civ. E)                 1\n      Computer Science (CS)                72\nElectrical Engineering (EE)                16\n  Management Sciences (FSM)                13\nSciences & Humanities (S&H)                12\n                   G. Total               114",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p64_table1.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 64,
+    "type": "table",
+    "rows": 8,
+    "columns": 2
+  }
+}

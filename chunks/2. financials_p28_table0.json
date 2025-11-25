@@ -1,0 +1,12 @@
+{
+  "chunk_id": "2. financials_p28_table0",
+  "text": "[TABLE from 2. financials.pdf, Page 28]\n                                          0 1                                                                                                     2\nNet cash provided by \\noperating activities   Represents operating ‘lifeblood’ of business after paying necessary outgoings for financing \\nand tax\n                                                                                                                                                   ",
+  "table_path": "output/tables/2. financials/2. financials_p28_table0.csv",
+  "metadata": {
+    "source": "2. financials.pdf",
+    "page": 28,
+    "type": "table",
+    "rows": 2,
+    "columns": 3
+  }
+}

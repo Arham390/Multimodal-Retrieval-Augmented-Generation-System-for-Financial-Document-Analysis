@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p66_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 66]\n                       0       1            2\n              Civ. E\\nCS EE\\nFSM          S&H\n                  Campus Authors Publications\nChiniot-Faisalabad (CFD)      31           63\n         Islamabad (ISB)      87          177\n           Karachi (KHI)      60           93\n            Lahore (LHR)      76          195\n          Peshawar (PWR)      17           33\n                G. Total     271          561\n                             195             \n                     177                     ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p66_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 66,
+    "type": "table",
+    "rows": 10,
+    "columns": 3
+  }
+}

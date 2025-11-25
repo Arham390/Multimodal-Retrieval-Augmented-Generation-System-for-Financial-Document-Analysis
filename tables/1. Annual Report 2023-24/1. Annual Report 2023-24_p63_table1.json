@@ -1,0 +1,34 @@
+[
+  {
+    "0":"CFD\nISB\nKHI",
+    "1":"LHR\nPWR"
+  },
+  {
+    "0":"Campus",
+    "1":"Conference Papers"
+  },
+  {
+    "0":"Chiniot-Faisalabad (CFD)",
+    "1":"5"
+  },
+  {
+    "0":"Islamabad (ISB)",
+    "1":"42"
+  },
+  {
+    "0":"Karachi (KHI)",
+    "1":"27"
+  },
+  {
+    "0":"Lahore (LHR)",
+    "1":"29"
+  },
+  {
+    "0":"Peshawar (PWR)",
+    "1":"11"
+  },
+  {
+    "0":"G. Total",
+    "1":"428"
+  }
+]

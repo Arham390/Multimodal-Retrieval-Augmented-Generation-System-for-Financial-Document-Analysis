@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p11_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 11]\n                                                0                 1\n          1 \\nBachelor of Business Administration     √ \\n√ \\n  \\n√\n   2 \\nBachelor of Science (Accounting & Finance)         √ \\n  \\n√\n3 \\nBachelor of Science (Artificial Intelligence) √ \\n√ \\n√ \\n  \\n√\n     4 \\nBachelor of Science (Business Analytics)     √ \\n√ \\n√ \\n√\n      5 \\nBachelor of Science (Civil Engineering)                 √\n       6 \\nBachelor of Science (Computer Science) √ \\n√ \\n√ \\n√ \\n√\n         7 \\nBachelor of Science (Cyber Security)             √ \\n√\n           8 \\nBachelor of Science (Data Science)         √ \\n  \\n√\n 9 \\nBachelor of Science (Electrical Engineering) √ \\n√ \\n√ \\n√ \\n√\n10 \\nBachelor of Science (Financial Technologies)         √ \\n√ \\n√\n  11 \\nBachelor of Science (Software Engineering) √ \\n√ \\n√ \\n√ \\n√",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p11_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 11,
+    "type": "table",
+    "rows": 11,
+    "columns": 2
+  }
+}

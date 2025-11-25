@@ -1,0 +1,11 @@
+{
+  "chunk_id": "2. financials_p2_img2",
+  "image_path": "output/images/2. financials/2. financials_p2_img2.png",
+  "width": 1175,
+  "height": 538,
+  "caption": "a detailed description of this financial chart or document is displayed on the page",
+  "ocr_text": "",
+  "embedding_shape": [
+    512
+  ]
+}

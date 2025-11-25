@@ -1,0 +1,12 @@
+{
+  "chunk_id": "1. Annual Report 2023-24_p16_table0",
+  "text": "[TABLE from 1. Annual Report 2023-24.pdf, Page 16]\n                                      0    1         2      3    4         5      6    7         8      9    10       11     12\n                         L\\nahore Campus                                                                                       \n                                              Professor             Associate             Assistant             Lecturer       \n                              Department                            Professor             Professor                            \n                                         Male           Female Male           Female Male           Female Male          Female\nArtificial Intelligence and Data Science    1                -    -                1    1                2    2               5\n                       Civil Engineering    2                -    1                -    4                -    5               2\n                        Computer Science    2                2    2                1    9                6   10              12\n                          Cyber Security    -                -    2                -    1                -    -               -\n                  Electrical Engineering    2                1    1                -    4                3    4               4\n                     Management Sciences    1                -    1                -    6                3    3              10\n                   Sciences & Humanities    3                2    -                1    2                7    5              10\n                    Software Engineering    -                -    1                -    2                -    4               6\n                                   Total   11                5    8                3   29               21   33              49\n                                                     16                    11                    50                   82       ",
+  "table_path": "output/tables/1. Annual Report 2023-24/1. Annual Report 2023-24_p16_table0.csv",
+  "metadata": {
+    "source": "1. Annual Report 2023-24.pdf",
+    "page": 16,
+    "type": "table",
+    "rows": 14,
+    "columns": 13
+  }
+}

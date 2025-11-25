@@ -1,0 +1,26 @@
+0,1,2,3
+A,ccreditation  Status  of  programs  offered  at  campuses  by  the  respective  accreditation,,
+,council are given in the table below,,
+No.,Program,Campus,Accreditation Status
+Pakistan Engineering Council (PEC),,,
+1.,Bachelor of Science (Electrical Engineering),"CFD, ISB,",Accredited
+,,"KHI, LHR,",
+,,PWR,
+2.,Bachelor of Science (Civil Engineering),LHR,Accredited
+3.,Bachelor of Science (Computer Engineering),ISB,Accredited
+National Computing Education Accreditation Council (NCEAC),,,
+1.,Bachelor of Science (Computer Science),"CFD, ISB,",Accredited
+,,"KHI, LHR,",
+,,PWR,
+2.,Bachelor of Science (Cyber Security),"ISB, KHI",Accredited
+3.,Bachelor of Science (Data Science),"ISB, KHI,",Accredited
+,,LHR,
+4.,Bachelor of Science (Software Engineering),"CFD, ISB,",Accredited
+,,"KHI, LHR,",
+,,PWR,
+5.,Bachelor of Science (Artificial Intelligence),"CFD, ISB,",Accredited
+,,"KHI, PWR",
+National Business Education Accreditation Council (NBEAC),,,
+1.,Bachelor of Science (Accounting & Finance),ISB,Accredited
+2.,Bachelor of Business Administration,"ISB, LHR",Accredited
+3.,Master of Business Administration,"ISB, LHR",Accredited
